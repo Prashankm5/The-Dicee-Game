@@ -1,4 +1,4 @@
-// Dicee Player 1.........>>>>>
+// Dicee Player 1..........>>>>>
 
 var randomNumber1 = Math.floor(Math.random()*6+1);
 var image1 = "image/dice"+randomNumber1+".png";
